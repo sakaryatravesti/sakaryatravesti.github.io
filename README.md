@@ -2,8 +2,8 @@
 
 ### Travesti
 
-Sakarya ↔ Adapazarı 
-Sakarya ↔ Akyazı 
+Sakarya ↔ Adapazarı <br/>
+Sakarya ↔ Akyazı <br/>
 Sakarya ↔ Arifiye 
 Sakarya ↔ Erenler 
 Sakarya ↔ Ferizli 
